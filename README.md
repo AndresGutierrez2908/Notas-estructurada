@@ -1,2 +1,2 @@
-# Notas-estructurada
+# NotasEstructurada
 Ejercicio notas con programación estructurada
